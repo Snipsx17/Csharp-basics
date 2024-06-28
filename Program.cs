@@ -9,4 +9,9 @@ int age = 32;
 float distance = 1.2F;
 double PI = 3.14159;
 decimal money = 367.234567M;
-bool isValid = true
+bool isValid = true;
+
+//Literal variables
+var userName = "snipsx";
+var userAge = 32;
+var isLogged = false;
