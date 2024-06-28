@@ -15,3 +15,20 @@ bool isValid = true;
 var userName = "snipsx";
 var userAge = 32;
 var isLogged = false;
+
+// Operations over numbers
+
+// Obtain divition with decimal point
+decimal decimalQuotient = 7.0m / 5;
+Console.WriteLine($"Decimal quotient: {decimalQuotient}");
+
+
+// convert temporarily to decimal
+int first = 7;
+int second = 5;
+decimal q = (decimal)first / (decimal)second;
+Console.WriteLine(q);
+
+// Modulus
+Console.WriteLine($"Modulus of 200 / 5 : {200 % 5}");
+Console.WriteLine($"Modulus of 7 / 5 : {7 % 5}");
