@@ -1,20 +1,20 @@
 ﻿
-// console print
-Console.WriteLine("Hello, World!");
+// // console print
+// Console.WriteLine("Hello, World!");
 
-// data types
-string name = "Uberth";
-char note = 'A';
-int age = 32;
-float distance = 1.2F;
-double PI = 3.14159;
-decimal money = 367.234567M;
-bool isValid = true;
+// // data types
+// string name = "Uberth";
+// char note = 'A';
+// int age = 32;
+// float distance = 1.2F;
+// double PI = 3.14159;
+// decimal money = 367.234567M;
+// bool isValid = true;
 
-//Literal variables
-var userName = "snipsx";
-var userAge = 32;
-var isLogged = false;
+// //Literal variables
+// var userName = "snipsx";
+// var userAge = 32;
+// var isLogged = false;
 
 // Operations over numbers
 
@@ -30,5 +30,16 @@ decimal q = (decimal)first / (decimal)second;
 Console.WriteLine(q);
 
 // Modulus
-Console.WriteLine($"Modulus of 200 / 5 : {200 % 5}");
-Console.WriteLine($"Modulus of 7 / 5 : {7 % 5}");
+// Console.WriteLine($"Modulus of 200 / 5 : {200 % 5}");
+// Console.WriteLine($"Modulus of 7 / 5 : {7 % 5}");
+
+// ARRAY
+
+// Create
+string[] names = ["Jhon", "Bertrand", "Linus", "Uberth"];
+
+// Read
+
+foreach( var userName in names ){
+    Console.WriteLine(userName);
+}

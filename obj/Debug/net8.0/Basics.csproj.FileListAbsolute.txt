@@ -1,0 +1,15 @@
+/Users/snipsx17/Desktop/projects-c#/Basics/bin/Debug/net8.0/Basics
+/Users/snipsx17/Desktop/projects-c#/Basics/bin/Debug/net8.0/Basics.deps.json
+/Users/snipsx17/Desktop/projects-c#/Basics/bin/Debug/net8.0/Basics.runtimeconfig.json
+/Users/snipsx17/Desktop/projects-c#/Basics/bin/Debug/net8.0/Basics.dll
+/Users/snipsx17/Desktop/projects-c#/Basics/bin/Debug/net8.0/Basics.pdb
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/Basics.AssemblyInfoInputs.cache
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/Basics.AssemblyInfo.cs
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/Basics.csproj.CoreCompileInputs.cache
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/Basics.sourcelink.json
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/Basics.dll
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/refint/Basics.dll
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/Basics.pdb
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/Basics.genruntimeconfig.cache
+/Users/snipsx17/Desktop/projects-c#/Basics/obj/Debug/net8.0/ref/Basics.dll
