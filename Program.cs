@@ -43,3 +43,15 @@ string[] names = ["Jhon", "Bertrand", "Linus", "Uberth"];
 foreach( var userName in names ){
     Console.WriteLine(userName);
 }
+
+int[] values = [1,2,3,4,5,6,7,8,9,10];
+
+int[] result = [];
+
+foreach( var num in values){
+    result[num] = num * 5;
+}
+
+foreach( var value in result){
+    Console.WriteLine(value);
+}
